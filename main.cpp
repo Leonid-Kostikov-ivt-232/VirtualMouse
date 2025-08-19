@@ -88,7 +88,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT uMsg,
         case VK_RETURN: // йКЮБХЬЮ ENTER - кебюъ ймнойю лшьх
             ClickLeftMouseButton();
             break;
-        case VK_SHIFT: // йКЮБХЬЮ опнаек - опюбюъ ймнойю лшьх
+        case VK_SPACE: // йКЮБХЬЮ опнаек - опюбюъ ймнойю лшьх
             ClickRightMouseButton();
             break;
             }
